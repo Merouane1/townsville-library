@@ -1,7 +1,7 @@
 # townsville-library
 
 
-### Instalation library
+### To install 
 
 ```text
     Import project as a maven project
